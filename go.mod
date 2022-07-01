@@ -1,4 +1,4 @@
-module gitlab.com/wshaman/hw-concurrency
+module github.com/maxwww/golang-united-school-homework-11
 
 go 1.18
 
